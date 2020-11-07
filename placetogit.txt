@@ -1,6 +1,0 @@
-<html>
-<head></head>
-<body>
-howdy to you
-</body>
-</html>
